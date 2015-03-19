@@ -18,9 +18,5 @@
   "bugs": {
     "url": "https://github.com/Srinjita/craft-soundbar/issues"
   },
-  "homepage": "https://github.com/Srinjita/craft-soundbar",
-  "dependencies": {
-    "craft-module": "^1.0.2"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/Srinjita/craft-soundbar"
 }
