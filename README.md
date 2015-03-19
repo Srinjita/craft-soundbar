@@ -2,18 +2,20 @@
 Soundbar to generate sound
 
 
-#Install:
+## Install:
 
-$ npm install craft-soundbar
+    $ npm install craft-soundbar
 
 
-#Example:
+## Example:
 
-    <craft>
-        <craft name="soundbar" module="craft-soundbar"/>
-        <soundbar ></soundbar>
-        <soundbar></soundbar>    
-        <soundbar></soundbar>
-     </craft>
+```html
+<craft>
+    <craft name="soundbar" module="craft-soundbar"/>
+    <soundbar ></soundbar>
+    <soundbar></soundbar>    
+    <soundbar></soundbar>
+</craft>
+```
 
 ![example](example.png)
